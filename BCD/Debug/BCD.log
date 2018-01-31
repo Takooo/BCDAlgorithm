@@ -1,0 +1,27 @@
+﻿  源.cpp
+e:\vs_code\bcd\bcd\源.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_code\bcd\bcd\源.cpp(61): warning C4018: “<=”: 有符号/无符号不匹配
+e:\vs_code\bcd\bcd\源.cpp(79): warning C4018: “<=”: 有符号/无符号不匹配
+e:\vs_code\bcd\bcd\源.cpp(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\vs_code\bcd\bcd\源.cpp(41): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+e:\vs_code\bcd\bcd\源.cpp(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\vs_code\bcd\bcd\源.cpp(171): warning C4552: “+”: 运算符不起任何作用；应输入带副作用的运算符
+e:\vs_code\bcd\bcd\源.cpp(216): warning C4552: “+”: 运算符不起任何作用；应输入带副作用的运算符
+e:\vs_code\bcd\bcd\源.cpp(550): warning C4305: “-=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(557): warning C4305: “+=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(570): warning C4305: “-=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(577): warning C4305: “+=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(587): warning C4305: “-=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(597): warning C4305: “+=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(599): warning C4305: “+=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(623): warning C4305: “+=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(625): warning C4305: “+=”: 从“int”到“char”截断
+e:\vs_code\bcd\bcd\源.cpp(730): warning C4101: “m”: 未引用的局部变量
+e:\vs_code\bcd\bcd\源.cpp(735): warning C4101: “mod”: 未引用的局部变量
+e:\vs_code\bcd\bcd\源.cpp(875): warning C4101: “m”: 未引用的局部变量
+e:\vs_code\bcd\bcd\源.cpp(880): warning C4101: “mod”: 未引用的局部变量
+e:\vs_code\bcd\bcd\源.cpp(1028): warning C4018: “<=”: 有符号/无符号不匹配
+  BCD.vcxproj -> E:\VS_Code\BCD\Debug\BCD.exe
